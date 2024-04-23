@@ -3,4 +3,4 @@
 
 # subject
 html,css,js를 이용한 소개서 만들기,
-github를 이용
+github를 이용한 데이터 공유
